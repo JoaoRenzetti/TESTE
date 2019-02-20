@@ -1,3 +1,3 @@
-var = "Rauan"
+var = input("Digite seu nome: ")
 
-print("ola %s" % var)
+print("ola %s" % nome)
